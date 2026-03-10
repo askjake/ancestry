@@ -1,0 +1,551 @@
+
+==============================================================================================================
+                            MONTGOMERY ANCESTRY RESEARCH ACTION GUIDE
+                                  Specific Steps & Resources
+==============================================================================================================
+
+This document provides ACTIONABLE research steps to:
+1. Correct the 7 impossible relationships
+2. Fill gaps in the family tree
+3. Verify connections with independent sources
+4. Preserve family history before it's lost
+
+==============================================================================================================
+SECTION 1: IMPOSSIBLE RELATIONSHIPS - IMMEDIATE CORRECTION NEEDED
+==============================================================================================================
+
+Each anomaly below includes:
+  • Specific individual and issue
+  • Likely explanation
+  • Exact resources to search
+  • Alternative search strategies
+
+-----------------------------------------------------------------------------------------------------------
+ANOMALY #1: Linda Arthur Montgomery (b. 2012)
+-----------------------------------------------------------------------------------------------------------
+ISSUE: Listed as having 2 children while being only 14 years old (as of 2026)
+       Also listed as having children in 2009 (age -3)
+
+LIKELY EXPLANATION:
+Birth year is wrong. Should probably be 1912 (not 2012), which would make her 97-100 years old
+at death or current age. The "2012" may be a typo where someone meant to enter 1912.
+
+RESEARCH STEPS:
+1. Search U.S. Census for "Linda Arthur Montgomery" or "Linda Montgomery":
+   → 1920 Census (she'd be age 8 if born 1912)
+   → 1930 Census (age 18)
+   → 1940 Census (age 28)
+   
+2. Search California Birth Index 1905-1995:
+   → Look for Linda Arthur Montgomery born 1910-1915
+   → Search variants: Linda A Montgomery, L Montgomery
+   
+3. Search Social Security Death Index:
+   → If she died, SSDI will show birth year
+   → Search "Linda Montgomery" California
+
+4. Contact relatives:
+   → Ask about "Great-Aunt Linda" or "Grandma Linda"
+   → Clarify if Linda is still living or deceased
+   
+EXPECTED RESOLUTION: Change birth year from 2012 to 1912
+
+-----------------------------------------------------------------------------------------------------------
+ANOMALY #2: Laurence Arthur Montgomery Jr (1927-2009)
+-----------------------------------------------------------------------------------------------------------
+ISSUE: Listed as having child at age 85 (child born 2012)
+       This child is Linda Arthur Montgomery (see Anomaly #1)
+
+LIKELY EXPLANATION:
+If Linda's birth year is corrected to 1912, this resolves automatically.
+Linda would have been born when Laurence was age -15, which reveals DIFFERENT issue:
+  → Linda is probably Laurence's SISTER, not daughter
+  → OR Linda is Laurence Sr's daughter (wrong generation assignment)
+
+RESEARCH STEPS:
+1. Obtain death certificate for Laurence Arthur Montgomery Jr:
+   → Died 2009, likely in California (Santa Clara mentioned in tree)
+   → Death certificate lists parents and sometimes children
+   → Order from California Department of Public Health
+   
+2. Search obituary:
+   → Santa Clara newspapers, 2009
+   → Obituaries list surviving children - verify who they are
+   → Check newspapers.com or local library archives
+   
+3. Interview living relatives:
+   → Who are Laurence Jr's actual children?
+   → Clarify Linda's relationship to Laurence
+   
+EXPECTED RESOLUTION: Linda is sibling or niece, not daughter
+
+-----------------------------------------------------------------------------------------------------------
+ANOMALY #3: Ann Montgomery (1720-1859)
+-----------------------------------------------------------------------------------------------------------
+ISSUE: Lifespan of 139 years (biologically impossible)
+       Birth: 1720, Death: 1859
+
+LIKELY EXPLANATION:
+Birth year is wrong. Most likely scenarios:
+  A) Born 1770 (not 1720) - would be age 89 at death (possible)
+  B) Born 1780 (not 1720) - would be age 79 at death (likely)
+  C) Death year is wrong (maybe 1759 instead of 1859)
+
+RESEARCH STEPS:
+1. Find Ann in death records:
+   → Search Pennsylvania death records 1855-1865
+   → Search Ohio death records 1855-1865  
+   → Death record should list age at death and/or birth year
+   
+2. Work backwards from children:
+   → Identify Ann's children in the tree
+   → What years were they born?
+   → Calculate when Ann would need to be born to have children those years
+   
+3. Search census records:
+   → 1850 Census: Ann would be listed with age (78 if born 1772, 28 if born 1822)
+   → 1840 Census: Check household composition
+   → 1860 Census: Should NOT appear if died 1859 (confirms death year)
+   
+4. Search marriage records:
+   → Ann Montgomery likely married (maiden name unknown)
+   → Marriage record would show age at marriage
+   
+EXPECTED RESOLUTION: Birth year should be 1770-1780, not 1720
+
+-----------------------------------------------------------------------------------------------------------
+ANOMALY #4: Alexander Montgomery (1462-1505) - SCOTTISH MEDIEVAL
+-----------------------------------------------------------------------------------------------------------
+ISSUE: Had child born 1445 (17 years before Alexander was born)
+
+LIKELY EXPLANATION:
+Medieval records often confuse generations. Possible scenarios:
+  A) Child born 1445 actually belongs to Alexander's FATHER
+  B) Alexander's birth year is wrong (born 1425 instead of 1462)
+  C) Child's birth year is wrong (born 1485 instead of 1445)
+
+RESEARCH STEPS:
+1. Consult Clan Montgomery genealogies:
+   → Contact: Clan Montgomery Society (clanmontgomery.org)
+   → They maintain detailed lineages for this period
+   → Ask specifically about Alexanders born 1425-1462
+   
+2. Check "The Scots Peerage" (reference book):
+   → Available at major genealogical libraries
+   → Volumes cover noble Scottish families
+   → Montgomery section should clarify this era
+   
+3. Search Scottish Records:
+   → ScotlandsPeople.gov.uk (official records)
+   → Land charters from Renfrewshire 1440-1505
+   → Look for "Alexander de Montgomery" or "Alexander Montgomerie"
+   
+4. Cross-reference with tree:
+   → Identify who the "child born 1445" is
+   → Trace that person's lineage - do dates make sense?
+   
+EXPECTED RESOLUTION: Either Alexander's birth year OR child's birth year is off by ~40 years
+
+-----------------------------------------------------------------------------------------------------------
+ANOMALY #5: Robert Montgomery (1448-1468) - SCOTTISH MEDIEVAL
+-----------------------------------------------------------------------------------------------------------
+ISSUE: Had 3 children at ages 9, 9, and 12 (biologically impossible)
+       Died at age 20
+
+LIKELY EXPLANATION:
+Classic genealogical confusion - probably mixed up with his FATHER:
+  → Father: Robert Montgomery (b. ~1420-1430)
+  → Son: Robert Montgomery (1448-1468) - died young, probably no children
+  → Grandchildren attributed to wrong Robert
+
+RESEARCH STEPS:
+1. Identify the 3 children:
+   → What are their names?
+   → What years were THEY born?
+   → This will reveal which Robert they actually belong to
+   
+2. Search Scottish records for TWO Robert Montgomerys:
+   → Look for Robert b. 1420-1430 (the father)
+   → Look for Robert b. 1448 (the son)
+   → Distinguish between them in land records
+   
+3. Check death record for young Robert (1468):
+   → Did he die in battle? Disease?
+   → Did he marry? (Marriage records would clarify)
+   
+4. Clan Montgomery genealogy:
+   → This era should be well-documented
+   → Contact genealogist for clarification
+   
+EXPECTED RESOLUTION: Children belong to Robert Sr (father), not Robert Jr (son)
+
+-----------------------------------------------------------------------------------------------------------
+ANOMALY #6: Alexander De Montgomery (1404-1452)
+-----------------------------------------------------------------------------------------------------------
+ISSUE: Had children at ages 79 and 86 (biologically possible but extremely unlikely)
+
+LIKELY EXPLANATION:
+These are probably GRANDCHILDREN mistakenly labeled as children:
+  → Alexander (1404-1452) had children around 1425-1440 (ages 21-36)
+  → Those children had children around 1483-1490
+  → System incorrectly linked grandchildren as direct children
+
+RESEARCH STEPS:
+1. Identify the "children" born when Alexander was 79-86:
+   → Who are they?
+   → Do they have parents listed?
+   → Likely one generation is missing
+   
+2. Look for Alexander's actual children:
+   → Should be born 1425-1445
+   → These people are probably in the tree already
+   → Just need to link them correctly
+   
+3. Scottish noble records:
+   → This is clan chief generation
+   → Well-documented in "The Scots Peerage"
+   → Contact Clan Montgomery Society
+   
+EXPECTED RESOLUTION: Add missing generation (Alexander's children) and correctly link grandchildren
+
+-----------------------------------------------------------------------------------------------------------
+ANOMALY #7: John Montgomery (1362-1429) - THE HOTSPUR CAPTOR
+-----------------------------------------------------------------------------------------------------------
+ISSUE: Had child born 1360 (2 years before John was born)
+
+HISTORICAL SIGNIFICANCE:
+This is an important ancestor! John Montgomery captured "Hotspur" Henry Percy at the Battle of 
+Otterburn (1388). He's mentioned in historical ballads and chronicles.
+
+LIKELY EXPLANATION:
+A) Child born 1360 actually belongs to John's FATHER (also likely named John)
+B) John's birth year might be 1340 instead of 1362
+C) Child's birth year might be 1380 instead of 1360
+
+RESEARCH STEPS:
+1. Historical sources for Battle of Otterburn:
+   → Chronicles mention John Montgomery's role
+   → May include his age at the battle (1388)
+   → If he was 26 in 1388, born 1362 is correct
+   → If he was 48 in 1388, born ~1340 is correct
+   
+2. Clan Montgomery historians:
+   → This generation is well-studied (famous ancestor)
+   → Contact: Clan Montgomery Society
+   → Ask specifically about "John who captured Hotspur"
+   
+3. Ardrossan, Ayrshire records:
+   → John lived there (per your tree)
+   → Local kirk (church) records might survive
+   → Check ScotlandsPeople.gov.uk
+   
+4. Cross-check child born "1360":
+   → Who is this person?
+   → What are their life dates?
+   → Do THEIR children's birth years make sense?
+   
+EXPECTED RESOLUTION: Either John was born earlier (1340s) OR child born later (1380s)
+
+==============================================================================================================
+SECTION 2: CRITICAL MEDICAL HISTORY RESEARCH
+==============================================================================================================
+
+WHY THIS MATTERS:
+Your tree shows unusual patterns of infant/young adult deaths. This information could be medically
+important for you and your children.
+
+-----------------------------------------------------------------------------------------------------------
+INFANT DEATHS: Toby J Montgomery (1975-1975) & Jody M Montgomery (1978-1978)
+-----------------------------------------------------------------------------------------------------------
+
+RESEARCH PRIORITIES:
+1. Obtain death certificates:
+   → Both died in Indiana (per tree)
+   → Death certificates list cause of death
+   → May indicate genetic condition, SIDS, accident, etc.
+   
+2. Interview parents/relatives:
+   → This is within living memory (1975, 1978)
+   → Parents or grandparents can provide details
+   → Ask about: cause, genetic testing done, other family health issues
+   
+3. Search for patterns:
+   → Were there other infant deaths in that family line?
+   → Do any other Montgomery branches show similar patterns?
+   
+4. Medical consultation:
+   → If genetic condition suspected, consider genetic counseling
+   → Relevant for your children's health
+   
+IMMEDIATE ACTION: Contact relatives who knew these children or their parents
+
+-----------------------------------------------------------------------------------------------------------
+YOUNG ADULT DEATH: Todd Alan Montgomery (1964-1984, age 20)
+-----------------------------------------------------------------------------------------------------------
+
+RESEARCH PRIORITIES:
+1. Obtain death certificate:
+   → Died Mount Auburn, Christian County, Illinois
+   → Illinois Department of Public Health
+   
+2. Search obituary:
+   → Local Illinois newspapers, 1984
+   → Will indicate if accident, illness, military service
+   
+3. Interview relatives:
+   → Still within living memory
+   → May reveal hereditary health issues
+   
+IMMEDIATE ACTION: This death was ~40 years ago. People who knew Todd are aging - interview soon.
+
+==============================================================================================================
+SECTION 3: FILLING GAPS - MISSING CONNECTIONS
+==============================================================================================================
+
+Your tree has excellent documentation, but these areas need research:
+
+-----------------------------------------------------------------------------------------------------------
+GAP #1: Scottish Wives Before 1500
+-----------------------------------------------------------------------------------------------------------
+WHY IT MATTERS:
+Your Montgomery men married daughters of OTHER noble families. Each marriage adds entire new lineages.
+
+WHO'S MISSING:
+• Wife of Roger de Montgomery (1005-1094) - WAS DOCUMENTED: Mabel of Bellême (major noble family)
+• Wife of Robert de Montgomery (1186-1259) - Unknown in tree
+• Wives of multiple Alexanders and Johns - Minimal data
+
+RESEARCH RESOURCES:
+→ "The Scots Peerage" (9 volumes) - covers noble marriages
+→ "Scots Peerage Online" - digital version
+→ Clan Montgomery Society archives
+→ ScotlandsPeople.gov.uk - parish records
+
+EXPECTED FINDS:
+Your Montgomerys married into: Boyd, Stewart, Cunningham, Maxwell, Hamilton families
+Each connection adds HUNDREDS of nobles to your tree
+
+-----------------------------------------------------------------------------------------------------------
+GAP #2: Ulster Connection (Scotland → Ireland → Pennsylvania, 1600s-1700s)
+-----------------------------------------------------------------------------------------------------------
+WHY IT MATTERS:
+Many Scots went to Northern Ireland (Ulster) in the 1600s, then to America in 1700s.
+Your tree might have this "Ulster-Scots" intermediate step.
+
+WHAT TO LOOK FOR:
+• Montgomery families in Ulster (Northern Ireland) 1650-1750
+• Specific county: Likely Down, Antrim, or Tyrone
+• Presbyterian church records
+
+RESEARCH RESOURCES:
+→ PRONI (Public Record Office Northern Ireland)
+→ Ulster Historical Foundation
+→ Presbyterian Historical Society of Ireland
+→ "Scotch-Irish Pioneers in Ulster and America" (book)
+
+EXPECTED FIND:
+2-3 generations in Ireland between Scotland and Pennsylvania
+May explain religious (Presbyterian) and political (American Revolution) patterns
+
+-----------------------------------------------------------------------------------------------------------
+GAP #3: Who Founded the Illinois Settlement (1820-1840)
+-----------------------------------------------------------------------------------------------------------
+WHY IT MATTERS:
+Your tree shows 98 people in Illinois, concentrated in Christian County. Someone started this.
+
+WHAT TO LOOK FOR:
+• First Montgomery land purchase in Christian County
+• Church membership (Presbyterian or Methodist likely)
+• Why Mount Auburn specifically?
+
+RESEARCH RESOURCES:
+→ Christian County Courthouse (land records)
+→ "History of Christian County, Illinois" (1880 book)
+→ Illinois State Archives
+→ FamilySearch.org - Illinois records
+→ Mount Auburn Historical Society (if exists)
+
+EXPECTED FIND:
+A Montgomery patriarch (William, Robert, or John - popular names) bought land 1820-1840.
+Siblings/cousins followed. This created the Illinois "clan seat" like Eaglesham in Scotland.
+
+-----------------------------------------------------------------------------------------------------------
+GAP #4: California Migration Motivation (1950s-1980s)
+-----------------------------------------------------------------------------------------------------------
+WHY IT MATTERS:
+This is YOUR direct line. Understanding why they moved to California preserves family story.
+
+WHAT TO LOOK FOR:
+• Why Santa Clara specifically? (Silicon Valley - tech jobs?)
+• Why Orange County? (aerospace industry?)
+• Military service? (many WWII veterans settled in California)
+• Education? (UC system drew families)
+
+RESEARCH RESOURCES:
+→ Interview living relatives (URGENT - they won't be around forever)
+→ City directories (Santa Clara, Orange County 1950-1980)
+→ Newspaper archives (family mentions)
+→ School records (if parents moved for education)
+
+IMMEDIATE ACTION:
+Record oral histories from anyone who remembers the California move.
+Use phone recorder, video, or written notes. This history disappears when people die.
+
+==============================================================================================================
+SECTION 4: EXTERNAL VERIFICATION RESOURCES
+==============================================================================================================
+
+ONLINE RESOURCES (Free or Subscription):
+
+1. FamilySearch.org (FREE)
+   → Largest free genealogy site
+   → Extensive Scottish, Irish, Pennsylvania records
+   → User-submitted trees (verify against yours)
+
+2. Ancestry.com (Subscription)
+   → Census records 1790-1950
+   → Immigration records
+   → Military records
+   → Newspaper archives
+
+3. ScotlandsPeople.gov.uk (Pay-per-view)
+   → Official Scottish records
+   → Birth, marriage, death records 1553-present
+   → Land records, testaments
+
+4. Newspapers.com (Subscription)
+   → Obituaries (critical for recent deaths)
+   → Local news mentions
+   → Illinois, California newspapers
+
+5. FindAGrave.com (FREE)
+   → Cemetery records with photos
+   → Often includes death dates, family connections
+   → Users upload obituaries
+
+BOOKS & REFERENCES:
+
+1. "The Scots Peerage" - Burke's Peerage
+   → Definitive source for Scottish nobility
+   → Available in major genealogical libraries
+   
+2. "Scotch-Irish Pioneers in Ulster and America" - Charles Hanna
+   → Covers your migration path
+   
+3. "History of Christian County, Illinois" (1880)
+   → Local history, family biographies
+   → Available: Internet Archive, Illinois libraries
+   
+4. "Clan Montgomery" by Montgomer's of Alamein
+   → Clan history book
+   
+ORGANIZATIONS TO CONTACT:
+
+1. Clan Montgomery Society International
+   → Website: clanmontgomery.org
+   → They maintain extensive genealogies
+   → Can help with Scottish period questions
+   
+2. Scots Ancestry Research Society
+   → Professional genealogists
+   → Fee-based research in Scotland
+   
+3. Christian County Genealogical Society (Illinois)
+   → Local researchers
+   → Access to courthouse records
+   
+4. Orange County California Genealogical Society
+   → Recent family history
+   → Local records access
+
+ARCHIVES TO VISIT (In-Person Research):
+
+1. National Records of Scotland (Edinburgh)
+   → Original documents for medieval/early modern period
+   
+2. Renfrewshire Archives (Paisley, Scotland)
+   → Local records for Eaglesham, Montgomery clan seat
+   
+3. Christian County Courthouse (Taylorville, Illinois)
+   → Land records, probate records, court records
+   
+4. Family History Library (Salt Lake City, Utah)
+   → Largest genealogical library in the world
+   → Extensive Scottish, Pennsylvania, Illinois collections
+
+==============================================================================================================
+SECTION 5: DNA TESTING RECOMMENDATIONS
+==============================================================================================================
+
+GENETIC GENEALOGY:
+DNA testing can CONFIRM or REFUTE genealogical connections, especially for distant ancestors.
+
+RECOMMENDED TESTS:
+
+1. AncestryDNA
+   → Largest database (good for finding relatives)
+   → Ethnicity estimate (should show strong Scottish/Irish)
+   → Matches you to relatives who tested
+   
+2. 23andMe
+   → Health reports (relevant given infant deaths in family)
+   → Ancestry reports
+   → Smaller database than Ancestry
+   
+3. FamilyTreeDNA (Y-DNA test)
+   → Y-DNA traces DIRECT MALE LINE (father→father→father)
+   → Can confirm Montgomery lineage back to medieval period
+   → Haplogroup might match other Montgomerys
+   
+WHAT YOU'LL LEARN:
+• Confirm Scottish/Irish ancestry percentage
+• Connect with distant Montgomery cousins
+• Verify specific branches of the tree
+• Identify any "non-paternity events" (adoptions, misattributed paternity)
+• Health info (genetic conditions that might explain infant deaths)
+
+EXPECTED RESULTS:
+Based on your tree, you should be:
+  → 40-60% Scottish/Irish
+  → 20-40% English (Norman ancestry)
+  → 10-20% Other Northwestern European
+  → Y-DNA haplogroup: Likely R1b (common in Norman/Scottish nobility)
+
+==============================================================================================================
+SECTION 6: PRIORITY ACTION CHECKLIST
+==============================================================================================================
+
+IMMEDIATE (Do This Week):
+□ Interview oldest living relatives - record conversations
+□ Ask specifically about: Toby, Jody, Todd deaths; California migration; family stories
+□ Order death certificates for recent deaths (Laurence Jr, Todd, etc.)
+□ Search FindAGrave.com for Montgomery graves (often has obituaries)
+
+SHORT-TERM (Do This Month):
+□ Contact Clan Montgomery Society about medieval period questions
+□ Search FamilySearch.org for Pennsylvania immigration records
+□ Correct obvious errors in tree (Linda's birth year, etc.)
+□ Order DNA test (AncestryDNA recommended for finding relatives)
+
+MEDIUM-TERM (Do This Year):
+□ Research Christian County, Illinois settlement (courthouse, books, census)
+□ Obtain "The Scots Peerage" volumes (library or purchase)
+□ Verify each of the 7 impossible relationships
+□ Fill in wives for medieval Montgomeries
+□ Document sources for all pre-1700 connections
+
+LONG-TERM (Ongoing):
+□ Connect with other Montgomery researchers (share findings)
+□ Visit archives in person (Scotland, Illinois)
+□ Write family history book (preserve what you've learned)
+□ Pass research to next generation (don't let it die with you)
+
+==============================================================================================================
+
+This research guide provides specific, actionable steps. Each anomaly and gap can be resolved with
+focused research using the resources listed. Start with immediate priorities (oral history) before
+sources disappear.
+
+Good luck with your research!
+
+==============================================================================================================
