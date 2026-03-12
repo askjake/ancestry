@@ -1,0 +1,382 @@
+
+================================================================================
+ELEANOR DOUGLASS - DATABASE QUERY TEMPLATES
+================================================================================
+
+Copy and paste these exact queries into each database.
+Check off each query as you complete it.
+
+================================================================================
+FAMILYSEARCH.ORG QUERIES
+================================================================================
+
+CALIFORNIA BIRTH INDEX (1905-1995)
+Collection: https://www.familysearch.org/search/collection/2001287
+
+□ QUERY 1: Primary search
+   First Names: Eleanor
+   Last Names: Douglas
+   Birth Year: 1925
+   Range: +/- 2 years
+   Birth Place: California, United States
+   
+□ QUERY 2: Alternate spelling
+   First Names: Eleanor
+   Last Names: Douglass
+   Birth Year: 1925
+   Range: +/- 2 years
+   Birth Place: California, United States
+   
+□ QUERY 3: Earlier year
+   First Names: Eleanor
+   Last Names: Douglas Douglass
+   Birth Year: 1924
+   Range: +/- 1 year
+   Birth Place: California, United States
+   
+□ QUERY 4: Later year
+   First Names: Eleanor
+   Last Names: Douglas Douglass
+   Birth Year: 1926
+   Range: +/- 1 year
+   Birth Place: California, United States
+   
+□ QUERY 5: Nickname Lenore
+   First Names: Lenore
+   Last Names: Douglas Douglass
+   Birth Year: 1925
+   Range: +/- 2 years
+   Birth Place: California, United States
+   
+□ QUERY 6: Nickname Nora
+   First Names: Nora
+   Last Names: Douglas Douglass
+   Birth Year: 1925
+   Range: +/- 2 years
+   Birth Place: California, United States
+   
+□ QUERY 7: Los Angeles County specific
+   First Names: Eleanor Elenore
+   Last Names: Douglas Douglass
+   Birth Year: 1924-1926
+   Birth Place: Los Angeles, California, United States
+   
+□ QUERY 8: Ventura County specific
+   First Names: Eleanor Elenore
+   Last Names: Douglas Douglass
+   Birth Year: 1924-1926
+   Birth Place: Ventura, California, United States
+
+---
+
+1940 US CENSUS
+Collection: https://www.familysearch.org/search/collection/2000219
+
+□ QUERY 9: Primary census search
+   Name: Eleanor Douglas
+   Birth Year: 1925
+   Range: +/- 2 years
+   Birth Place: California
+   Residence Place: California
+   
+□ QUERY 10: Alternate spelling
+   Name: Eleanor Douglass
+   Birth Year: 1925
+   Range: +/- 2 years
+   Birth Place: California
+   Residence Place: California
+   
+□ QUERY 11: Los Angeles specific
+   Name: Eleanor Douglas Douglass
+   Birth Year: 1925
+   Range: +/- 2 years
+   Residence Place: Los Angeles, California
+   
+□ QUERY 12: Head of household search
+   Name: [Try common first names] Douglas
+   Spouse Name: [Leave blank]
+   Birth Year: 1890-1905
+   Residence Place: California
+   Note: Looking for Eleanor's father as head of household
+
+---
+
+1930 US CENSUS (Eleanor as young child)
+Collection: https://www.familysearch.org/search/collection/1810731
+
+□ QUERY 13: Eleanor as child
+   Name: Eleanor Douglas
+   Birth Year: 1925
+   Range: +/- 2 years
+   Residence Place: California
+   
+□ QUERY 14: Eleanor as child alternate
+   Name: Eleanor Douglass
+   Birth Year: 1925
+   Range: +/- 2 years
+   Residence Place: California
+
+---
+
+CALIFORNIA MARRIAGE INDEX (1850-1952)
+Collection: https://www.familysearch.org/search/collection/1804002
+
+□ QUERY 15: Marriage to Jack Wilson
+   Bride Given Name: Eleanor
+   Bride Surname: Douglas
+   Groom Given Name: Jack
+   Groom Surname: Wilson
+   Marriage Year: 1950
+   Range: +/- 5 years
+   Marriage Place: California
+   
+□ QUERY 16: Alternate bride spelling
+   Bride Given Name: Eleanor
+   Bride Surname: Douglass
+   Groom Given Name: Jack
+   Groom Surname: Wilson
+   Marriage Year: 1950
+   Range: +/- 5 years
+   Marriage Place: California
+   
+□ QUERY 17: Full groom name
+   Bride Given Name: Eleanor
+   Bride Surname: Douglas Douglass
+   Groom Given Name: Jack Warren
+   Groom Surname: Wilson
+   Marriage Year: 1945-1953
+   Marriage Place: Ventura, California
+
+================================================================================
+ANCESTRY.COM QUERIES (at library or with subscription)
+================================================================================
+
+CALIFORNIA BIRTH INDEX (1905-1995)
+
+□ QUERY 18: Ancestry primary
+   First & Middle Name(s): Eleanor
+   Last Name: Douglas
+   Birth Year: 1925
+   Birth Location: California, USA
+   
+□ QUERY 19: Ancestry alternate
+   First & Middle Name(s): Eleanor
+   Last Name: Douglass
+   Birth Year: 1925
+   Birth Location: California, USA
+   
+□ QUERY 20: Broad Ancestry search
+   First & Middle Name(s): Eleanor Elenore
+   Last Name: Dougl*
+   Birth Year: 1924-1926
+   Birth Location: California, USA
+   [Use wildcard Dougl* to find Douglas, Douglass, etc.]
+
+---
+
+1940 US CENSUS (Ancestry)
+
+□ QUERY 21: Ancestry census
+   First & Middle Name(s): Eleanor
+   Last Name: Douglas
+   Birth Year: 1925
+   Lived in: California, USA
+   
+□ QUERY 22: Ancestry census household
+   Search for head of household:
+   Last Name: Douglas
+   Gender: Male
+   Birth Year: 1890-1905
+   Lived in: California, USA
+   Household member: Eleanor (daughter)
+
+---
+
+CALIFORNIA MARRIAGE INDEX (Ancestry)
+
+□ QUERY 23: Ancestry marriage
+   Bride's First Name: Eleanor
+   Bride's Last Name: Douglas
+   Groom's First Name: Jack
+   Groom's Last Name: Wilson
+   Marriage Year Range: 1945-1953
+   Marriage Place: California, USA
+
+---
+
+U.S. SOCIAL SECURITY DEATH INDEX (for Jack Wilson)
+
+□ QUERY 24: Jack Wilson death
+   First Name: Jack
+   Last Name: Wilson
+   Birth Year: 1921
+   Death Year: 2009
+   Last Residence: California
+   [Will show if Eleanor is surviving spouse]
+
+---
+
+CALIFORNIA DEATH INDEX (check if Eleanor deceased)
+
+□ QUERY 25: Eleanor possible death
+   First Name: Eleanor
+   Last Name: Wilson
+   Birth Year: 1925
+   Range: +/- 2 years
+   Death Place: California
+
+================================================================================
+MYHERITAGE.COM QUERIES (free trial available)
+================================================================================
+
+□ QUERY 26: MyHeritage California births
+   First name: Eleanor
+   Last name: Douglas Douglass
+   Year: 1925
+   Place: California
+   
+□ QUERY 27: MyHeritage census
+   First name: Eleanor
+   Last name: Douglas
+   Year: 1940
+   Location: California
+
+================================================================================
+WIKITREE.COM QUERIES (100% free)
+================================================================================
+
+□ QUERY 28: WikiTree search
+   Go to: https://www.wikitree.com/genealogy/DOUGLAS
+   Search for: Eleanor Douglas born 1925 California
+   Check: Public family trees
+   
+□ QUERY 29: WikiTree alternative
+   Search: https://www.wikitree.com/genealogy/WILSON
+   Look for: Jack Warren Wilson 1921-2009
+   Check: If Eleanor listed as spouse
+
+================================================================================
+FINDAGRAVE.COM QUERIES (free)
+================================================================================
+
+□ QUERY 30: Jack Warren Wilson burial
+   Search: Jack Warren Wilson
+   Birth: 1921
+   Death: 2009
+   Location: California
+   [Check memorial for spouse Eleanor listed]
+   
+□ QUERY 31: Eleanor Wilson burial
+   Search: Eleanor Wilson
+   Birth: 1925
+   Death: [unknown]
+   Location: California
+   Spouse: Jack Wilson
+
+================================================================================
+NEWSPAPERS.COM QUERIES (free trial or library)
+================================================================================
+
+□ QUERY 32: Jack Wilson obituary
+   Search: Jack Warren Wilson
+   Date: 2009
+   Location: California
+   Newspapers: Los Angeles Times, Ventura County Star
+   
+□ QUERY 33: Eleanor Douglas marriage announcement
+   Search: Eleanor Douglas Jack Wilson marriage
+   Date: 1945-1953
+   Location: California newspapers
+   
+□ QUERY 34: Melinda Wilson birth announcement
+   Search: Wilson birth daughter Melinda
+   Date: 1953
+   Location: Simi Valley, Ventura County newspapers
+
+================================================================================
+CALIFORNIA DIGITAL NEWSPAPER COLLECTION (free)
+================================================================================
+
+□ QUERY 35: CDNC marriage announcements
+   Website: https://cdnc.ucr.edu/
+   Search: "Eleanor Douglas" OR "Eleanor Douglass" married Wilson
+   Date Range: 1945-1953
+   
+□ QUERY 36: CDNC obituaries
+   Search: "Jack Warren Wilson" obituary
+   Date Range: 2009
+
+================================================================================
+GOOGLE ADVANCED SEARCH QUERIES
+================================================================================
+
+□ QUERY 37: Google genealogy forums
+   Search: "Eleanor Douglas" OR "Eleanor Douglass" "Jack Wilson" California genealogy
+   
+□ QUERY 38: Google ancestry discussions
+   Search: "Eleanor Douglass" 1925 California parents Maddox
+   
+□ QUERY 39: Google family trees
+   Search: "Eleanor Douglas Wilson" family tree Melinda
+   
+□ QUERY 40: Google historical records
+   Search: "Eleanor Douglas" birth 1925 California "mother's maiden name"
+
+================================================================================
+RESEARCH PROGRESS TRACKER
+================================================================================
+
+Total Queries: 40
+Completed: _____ / 40
+Success Rate: _____%
+
+RESULTS SUMMARY:
+
+Queries with matches found: _______
+Queries with no results: _______
+Queries with too many results to review: _______
+Queries not yet attempted: _______
+
+BEST LEAD SO FAR:
+Source: _____________________________________________
+Information found: __________________________________
+_____________________________________________________
+Confidence level: □ High  □ Medium  □ Low
+
+NEXT STEPS BASED ON RESULTS:
+□ Order birth certificate (if found in index)
+□ Review census images (if household found)
+□ Request marriage certificate (if marriage found)
+□ Expand search to adjacent states
+□ Try additional name variations
+□ Hire professional genealogist
+
+================================================================================
+SEARCH LOG
+================================================================================
+
+Date: ____________
+Time spent: _______ hours
+Queries completed today: #_____ to #_____
+Results: _________________________________________________
+________________________________________________________
+________________________________________________________
+
+Next session planned for: ____________
+Focus for next session: ___________________________________
+
+================================================================================
+END OF QUERY TEMPLATES
+================================================================================
+
+INSTRUCTIONS:
+1. Print this document
+2. Work through queries systematically
+3. Check off each query as completed
+4. Record any matches found
+5. Track your progress
+6. Don't skip queries - systematic approach is key!
+
+Remember: You only need ONE good match to solve the mystery!
+
+================================================================================

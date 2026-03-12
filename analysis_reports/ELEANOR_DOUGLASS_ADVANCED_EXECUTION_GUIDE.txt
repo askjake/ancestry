@@ -1,0 +1,472 @@
+
+================================================================================
+ELEANOR DOUGLASS RESEARCH - ADVANCED EXECUTION GUIDE
+================================================================================
+
+This guide provides EXACT search queries and step-by-step instructions for
+each major genealogy database.
+
+================================================================================
+PART 1: FAMILYSEARCH.ORG EXACT SEARCH INSTRUCTIONS
+================================================================================
+
+STEP 1: CREATE FREE ACCOUNT
+----------------------------
+1. Go to: https://www.familysearch.org
+2. Click "Free Account" (top right)
+3. Enter email, create password
+4. Verify email
+5. Login
+
+STEP 2: CALIFORNIA BIRTH INDEX SEARCH
+--------------------------------------
+1. After login, click "Search" in top menu
+2. Click "Records"
+3. In search bar, type: "California Birth Index"
+4. Click on: "California Birth Index, 1905-1995"
+   Direct link: https://www.familysearch.org/search/collection/2001287
+
+SEARCH PARAMETERS TO ENTER:
+
+Search #1: Primary spelling
+  First Names: Eleanor
+  Last Names: Douglas
+  Birth Year: 1925
+  Birth Year Range: +/- 2 years
+  Birth Place: California, United States
+  [Click SEARCH]
+
+Search #2: Alternate spelling
+  First Names: Eleanor
+  Last Names: Douglass
+  Birth Year: 1925
+  Birth Year Range: +/- 2 years
+  Birth Place: California, United States
+  [Click SEARCH]
+
+Search #3: Broader search
+  First Names: Eleanor Elenore
+  Last Names: Douglas Douglass
+  Birth Year: 1924-1926
+  Birth Place: California, United States
+  [Click SEARCH]
+
+Search #4: Nickname variations
+  First Names: Lenore Nora Nell
+  Last Names: Douglas Douglass
+  Birth Year: 1924-1926
+  Birth Place: California, United States
+  [Click SEARCH]
+
+WHAT TO LOOK FOR IN RESULTS:
+  ✓ Name matches Eleanor (or variant)
+  ✓ Birth year 1924-1926
+  ✓ County in California
+  ⭐ MOTHER'S MAIDEN NAME field - THIS IS KEY!
+  ✓ Certificate number (for ordering official copy)
+
+IF YOU FIND A MATCH:
+  1. Click on the record to view details
+  2. Screenshot or save the information
+  3. Note: Name, Date, County, Mother's maiden name, Certificate #
+  4. Click "Save to My List" or "Add to Family Tree"
+  5. Order official certificate using certificate number
+
+STEP 3: 1940 US CENSUS SEARCH
+------------------------------
+1. From main FamilySearch page, click "Search" → "Records"
+2. Type: "1940 United States Census"
+3. Click on collection
+   Direct link: https://www.familysearch.org/search/collection/2000219
+
+SEARCH PARAMETERS:
+
+Search #1:
+  Name: Eleanor Douglas
+  Birth Year: 1925 (+/- 2 years)
+  Birth Place: California
+  Residence: California
+  [Click SEARCH]
+
+Search #2:
+  Name: Eleanor Douglass
+  Birth Year: 1925 (+/- 2 years)
+  Birth Place: California
+  Residence: California
+  [Click SEARCH]
+
+WHAT TO LOOK FOR IN RESULTS:
+  ✓ Eleanor listed with age 14-16 in 1940
+  ✓ Living in California household
+  ✓ PARENTS listed in same household (names!)
+  ✓ Siblings listed
+  ✓ Address and city
+  ✓ Father's occupation
+  ✓ Click on record to see full household image
+
+IF YOU FIND THE HOUSEHOLD:
+  1. View the actual census page image
+  2. Find Eleanor's line
+  3. Look at head of household (likely father)
+  4. Look at wife of head (likely mother)
+  5. Note all names and relationships
+  6. Screenshot the census page
+  7. This gives you PARENTS' NAMES!
+
+STEP 4: CALIFORNIA MARRIAGE INDEX SEARCH
+-----------------------------------------
+1. From FamilySearch, search for "California County Marriages"
+2. Collection: California, County Marriages, 1850-1952
+   Direct link: https://www.familysearch.org/search/collection/1804002
+
+SEARCH PARAMETERS:
+
+Search for Eleanor as BRIDE:
+  Bride's Given Name: Eleanor
+  Bride's Surname: Douglas OR Douglass
+  Groom's Given Name: Jack
+  Groom's Surname: Wilson
+  Marriage Year: 1945-1953
+  Marriage Place: California
+  [Click SEARCH]
+
+WHAT TO LOOK FOR:
+  ✓ Marriage record Eleanor Douglass to Jack Wilson
+  ✓ Marriage date and county
+  ✓ Parents' names for BOTH bride and groom
+  ⭐ This will list Eleanor's father and mother!
+
+STEP 5: 1930 US CENSUS SEARCH (Eleanor as child)
+-------------------------------------------------
+1. Search: "1930 United States Census"
+2. Direct link: https://www.familysearch.org/search/collection/1810731
+
+SEARCH PARAMETERS:
+  Name: Eleanor Douglas OR Douglass
+  Birth Year: 1925 (+/- 2 years)
+  Age: 4-6 years old (in 1930)
+  Residence: California
+  [Click SEARCH]
+
+This will show Eleanor as a young child with her parents!
+
+================================================================================
+PART 2: ANCESTRY.COM LIBRARY EDITION
+================================================================================
+
+FINDING A LIBRARY WITH ANCESTRY ACCESS:
+1. Go to: https://www.ancestrylibrary.com/
+2. Click "Find a Library"
+3. Enter your zip code
+4. Results show libraries with free Ancestry access
+5. Call ahead to verify access and hours
+
+AT THE LIBRARY - EXACT SEARCHES:
+
+CALIFORNIA BIRTH INDEX:
+1. On Ancestry homepage, click "Search"
+2. Click "Birth, Marriage & Death"
+3. Select "California Birth Index, 1905-1995"
+4. Enter:
+   - First & Middle Name(s): Eleanor
+   - Last Name: Douglas
+   - Birth Year: 1925
+   - Birth Location: California
+5. Click "Search"
+6. Try alternate spelling: Douglass
+7. Try years: 1924, 1926
+
+1940 CENSUS:
+1. Click "Search" → "Census & Voter Lists"
+2. Select "1940 United States Federal Census"
+3. Enter:
+   - First & Middle Name(s): Eleanor
+   - Last Name: Douglas
+   - Birth Year: 1925
+   - Lived in: California
+4. Review results for matching household
+
+CALIFORNIA MARRIAGE INDEX:
+1. Search → "Birth, Marriage & Death"
+2. Select "California, U.S., Marriage Index, 1949-1959"
+3. Enter:
+   - Bride's Name: Eleanor Douglas
+   - Groom's Name: Jack Wilson
+4. Search
+
+PUBLIC MEMBER TREES:
+1. Click "Search" → "Member Trees"
+2. Enter: Eleanor Douglas California
+3. Look for public trees that match your family
+4. May find other researchers with same ancestors
+5. Contact tree owners for information sharing
+
+================================================================================
+PART 3: CALIFORNIA VITAL RECORDS OFFICIAL REQUEST
+================================================================================
+
+BIRTH CERTIFICATE REQUEST:
+
+California Department of Public Health - Vital Records
+P.O. Box 997410
+Sacramento, CA 95899-7410
+
+Online: https://www.cdph.ca.gov/Programs/CHSI/Pages/Vital-Records-Obtaining-Certified-Copies.aspx
+Phone: (916) 445-2684
+
+APPLICATION FORM:
+Download form: "Application for Certified Copy of Birth Certificate"
+Form number: VS 113
+
+INFORMATION TO PROVIDE:
+1. Full name at birth: Eleanor Douglass (or Douglas)
+2. Date of birth: Unknown - provide range 1924-1926
+3. Place of birth: California (specify county if known from index)
+4. Mother's maiden name: Unknown (state this)
+5. Father's name: Unknown (state this)
+6. Your relationship: Great-grandchild
+7. Purpose: Genealogical research
+
+NOTE: If you don't have exact information, you may need to:
+- First find the birth index record (free on FamilySearch)
+- Use the index to get exact date and county
+- Then order the certificate with specific information
+
+COST: $28 per certificate
+PROCESSING TIME: 4-8 weeks
+
+MARRIAGE CERTIFICATE REQUEST:
+
+If married in Ventura County:
+Ventura County Clerk-Recorder
+800 S. Victoria Ave
+Ventura, CA 93009
+Phone: (805) 654-2263
+Website: https://clerkrecorder.venturacounty.gov/
+
+If married elsewhere, determine county first from marriage index.
+
+================================================================================
+PART 4: DETAILED SEARCH STRATEGIES
+================================================================================
+
+STRATEGY 1: NAME VARIATIONS
+
+Eleanor variations to try:
+- Eleanor
+- Elenore  
+- Eleanore
+- Elenor
+- Lenore (nickname)
+- Nora (nickname)
+- Nell (nickname)
+- Nellie (nickname)
+- Ellen (related name)
+
+Douglas variations to try:
+- Douglas
+- Douglass
+- Duglas
+- Dougles
+
+STRATEGY 2: YEAR VARIATIONS
+
+Try each year individually:
+- 1923 (if birth year estimate off)
+- 1924
+- 1925
+- 1926
+- 1927 (if birth year estimate off)
+
+STRATEGY 3: COUNTY VARIATIONS
+
+California counties to search in order of priority:
+1. Los Angeles County (highest population)
+2. Ventura County (daughter born here)
+3. Orange County
+4. San Bernardino County
+5. Kern County
+6. San Diego County
+7. Riverside County
+8. Santa Barbara County
+
+STRATEGY 4: SOUNDEX SEARCH
+
+Some databases have "Soundex" or "Similar Names" option
+This finds phonetically similar names:
+- Douglas = Douglass = Duglas
+Enable this option when available
+
+STRATEGY 5: WILDCARD SEARCH
+
+Some databases allow wildcards:
+- Dougla* (finds Douglas, Douglass, etc.)
+- Ele*nor (finds Eleanor, Elenor, etc.)
+
+STRATEGY 6: BROWSE MODE
+
+If search not working:
+- Browse California Birth Index by year
+- Look through all births in target county for 1925
+- Tedious but thorough
+
+================================================================================
+PART 5: CROSS-REFERENCE VERIFICATION
+================================================================================
+
+Once you find a potential match, VERIFY by cross-referencing:
+
+CHECKLIST FOR VERIFICATION:
+□ Name matches: Eleanor Douglass/Douglas
+□ Birth year range: 1924-1926
+□ Birth location: California
+□ Marriage to: Jack Warren Wilson (verify separately)
+□ Daughter: Melinda Lee Wilson born 1953 Simi Valley
+□ Parents' names make sense (age appropriate, etc.)
+□ No conflicting information in other records
+
+MULTIPLE SOURCES NEEDED:
+✓ Birth record (parents' names)
+✓ Census record (confirm family household)
+✓ Marriage record (confirm Eleanor + Jack)
+✓ Daughter's birth record (confirms Eleanor as mother)
+
+If all 4 sources align = HIGH CONFIDENCE
+If 2-3 sources align = MEDIUM CONFIDENCE  
+If only 1 source = NEEDS MORE VERIFICATION
+
+================================================================================
+PART 6: TROUBLESHOOTING
+================================================================================
+
+IF YOU DON'T FIND ANYTHING:
+
+Problem: No matches in California Birth Index
+Solutions:
+→ Try all name variations
+→ Try adjacent years (1923, 1927)
+→ Try misspellings (Elonor, Dougles, etc.)
+→ Check if born in different state
+→ Birth may not have been registered (rare but possible)
+
+Problem: Multiple matches found
+Solutions:
+→ Check each one for age/location match
+→ Look for census records to verify household
+→ Check marriage records to confirm spouse
+→ Look for daughter's birth record naming mother
+
+Problem: Record found but no parents listed
+Solutions:
+→ Order official certificate (has more detail than index)
+→ Check census records instead
+→ Look for delayed birth registration (filed later)
+→ Check marriage record for parents
+
+Problem: Can't access FamilySearch/Ancestry
+Solutions:
+→ Visit local library with Ancestry Library Edition
+→ Contact Simi Valley FamilySearch Center for help
+→ Try free MyHeritage.com trial
+→ Check WikiTree.com for user-submitted trees
+
+================================================================================
+PART 7: WHEN TO HIRE A PROFESSIONAL
+================================================================================
+
+Consider hiring a professional genealogist if:
+- You've searched for 3+ months with no results
+- You've exhausted all online databases
+- Records may require in-person archive research
+- You're stuck and frustrated
+
+CALIFORNIA GENEALOGIST RECOMMENDATIONS:
+- Association of Professional Genealogists: www.apgen.org
+- Board for Certification of Genealogists: www.bcgcertification.org
+- Filter by: California specialization
+- Expected cost: $50-$100/hour
+- Typical project: 5-10 hours for focused research
+- Total cost: $250-$1000
+
+WHAT A PROFESSIONAL CAN DO:
+✓ Access paid databases you don't have
+✓ Visit California State Archives in person
+✓ Request records from multiple counties
+✓ Read old handwriting in original documents
+✓ Know which resources to check
+✓ Often find records in 1-2 weeks that you couldn't find in months
+
+================================================================================
+PART 8: RECORDING YOUR FINDINGS
+================================================================================
+
+USE THE DAILY JOURNAL TEMPLATE PROVIDED
+
+For each record found, document:
+1. Source (database name, collection, URL)
+2. Exact search terms used
+3. What you found
+4. Citation information
+5. Screenshot or save copy
+6. Date you found it
+7. Confidence level (high/medium/low)
+
+BUILD SOURCE CITATIONS:
+Example birth record citation:
+"Eleanor Douglass, birth record, 15 March 1925, Los Angeles County, 
+California; California Birth Index, 1905-1995; FamilySearch 
+(https://www.familysearch.org : accessed 12 March 2026), 
+certificate number 1925-012345."
+
+This allows you (or others) to find the same record later.
+
+================================================================================
+PART 9: MADDOX CONNECTION TESTING
+================================================================================
+
+Once you find Eleanor's mother's maiden name, test Maddox hypothesis:
+
+IF MAIDEN NAME = MADDOX:
+1. Search Arkansas Maddox family for Eleanor's mother
+2. Look for females born ~1900-1905
+3. Search Arkansas-California migration records
+4. Connect to known Maddox branch in tree
+5. HYPOTHESIS CONFIRMED!
+
+IF MAIDEN NAME ≠ MADDOX:
+1. Research the actual maiden name surname
+2. Look for connection to Maddox in earlier generation
+3. Check if Maddox connection through different line
+4. Update hypothesis in research notes
+
+================================================================================
+PART 10: NEXT GENERATION RESEARCH
+================================================================================
+
+After finding Eleanor's parents, continue backward:
+
+ELEANOR'S GRANDPARENTS:
+- Father's parents (paternal grandparents)
+- Mother's parents (maternal grandparents)
+
+PROCESS:
+1. Use Eleanor's parents' birth years to estimate grandparents
+2. Search for parents' birth records (will list their parents)
+3. Search census records for multi-generational households
+4. Continue building tree backward generation by generation
+
+GOAL: Trace back to immigration records or Colonial America
+
+================================================================================
+END OF ADVANCED EXECUTION GUIDE
+================================================================================
+
+Print this guide and follow step-by-step.
+Check off each search as you complete it.
+Record all findings in the Daily Journal.
+
+Success requires patience and persistence!
+The information IS out there - you just need to find it.
+
+Good luck! 🌳
+================================================================================
